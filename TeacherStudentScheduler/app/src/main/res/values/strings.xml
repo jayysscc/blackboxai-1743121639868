@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Teacher-Student Scheduler</string>
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Schedule meetings with ease</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Create Account</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="teacher_role">I\'m a Teacher</string>
+    <string name="student_role">I\'m a Student</string>
+    <string name="teacher_login_title">Teacher Login</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="permission_explanation">This app needs permissions to send notifications and access your calendar</string>
+    
+    <!-- Error Messages -->
+    <string name="error_invalid_email">Please enter a valid email address</string>
+    <string name="error_short_password">Password must be at least 6 characters</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    
+    <!-- Navigation Labels -->
+    <string name="nav_home">Home</string>
+    <string name="nav_schedule">Schedule</string>
+    <string name="nav_meetings">Meetings</string>
+    <string name="nav_settings">Settings</string>
+    
+    <!-- Meeting Status -->
+    <string name="status_pending">Pending Approval</string>
+    <string name="status_confirmed">Confirmed</string>
+    <string name="status_rejected">Rejected</string>
+    <string name="status_cancelled">Cancelled</string>
+    <string name="add_availability">Add availability</string>
+    <string name="schedule_tab">Schedule</string>
+    <string name="meetings_tab">Meetings</string>
+    <string name="settings_tab">Settings</string>
+    <string name="available_slots">Available Slots</string>
+    <string name="pending_requests">Pending Requests</string>
+    <string name="confirmed_meetings">Confirmed Meetings</string>
+    <string name="no_availability_slots">No availability slots added yet</string>
+    <string name="add_first_slot">Add your first availability slot</string>
+    <string name="slot_date">Date</string>
+    <string name="slot_time">Time</string>
+    <string name="slot_duration">Duration</string>
+    <string name="delete">Delete</string>
+    <string name="confirm_delete">Delete this availability slot?</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="slot_added">Availability slot added</string>
+    <string name="slot_deleted">Availability slot deleted</string>
+    <string name="add_availability">Add Availability</string>
+    <string name="select_date">Select Date</string>
+    <string name="choose_date">Choose Date</string>
+    <string name="select_time">Select Time</string>
+    <string name="choose_time">Choose Time</string>
+    <string name="duration_minutes">Duration (minutes)</string>
+    <string name="error_duration_empty">Please enter duration</string>
+    <string name="save">Save</string>
+    <string name="date_format">%02d/%02d/%d</string>
+    <string name="time_format">%02d:%02d</string>
+    <string name="invalid_time">Please select a valid time</string>
+    <string name="invalid_date">Please select a valid date</string>
+</resources>
